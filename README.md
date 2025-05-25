@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ### Online (sem instalar nada)
 
-Acesse diretamente: [sorteador-numero-cyan.vercel.app](https://sorteador-numero-cyan.vercel.app)
+Acesse diretamente: [Sorteador de número](https://sorteador-numero-cyan.vercel.app)
 
 ---
 
